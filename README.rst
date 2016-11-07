@@ -7,6 +7,8 @@ Django BigFeat is custom field to add up to 63 boolean features using a BigInteg
 Quick start
 -----------
 
+.. code:: python
+
     from django.db import models
     from bigfeat import BigFeatField
     
